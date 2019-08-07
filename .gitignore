@@ -2,7 +2,7 @@
 # Edit at https://www.gitignore.io/?templates=jekyll
 
 ### Jekyll ###
-_site/
+# _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
