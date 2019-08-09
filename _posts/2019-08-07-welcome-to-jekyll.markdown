@@ -1,25 +1,16 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
-date:   2019-08-07 20:26:35 +0700
-categories: jekyll update
+date:   2019-08-07 22:59:35 +0700
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+I'm really inspired by comments in [Hacker News][hn]. I'm not an expert at all with two years experience in part-time freelancing.
 
-Jekyll also offers powerful support for code snippets:
+My early blog is [Wordpress][wp]. It mainly wrote somewhat about Linux. I decided to switch to github pages as it gave me flexibility over the Wordpres platform, I hope so.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+I'm going to post once or twice every two weeks.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+For now, I wish blogging could teach me how to think better, write better, teach better.
 
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+[hn]: https://news.ycombinator.com/item?id=14900376
+[wp]: https://rifail.wordpress.com
